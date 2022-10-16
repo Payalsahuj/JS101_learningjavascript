@@ -1,0 +1,16 @@
+var school="Senior secondary school sector-4";
+let student_name ="payal sahu";
+let Rollno= 2102232;
+let Section= "A";
+let marks_science= 78;
+let marks_maths= 67;
+let marks_english= 92;
+let grade="B++";
+console.log(school);
+console.log(student_name);
+console.log(Rollno);
+console.log(Section);
+console.log(marks_science);
+console.log(marks_maths);
+console.log(marks_english);
+console.log(grade);
